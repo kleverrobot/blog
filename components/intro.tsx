@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 const Intro = () => {
   return (
-    <section className="flex-col flex items-center mt-16 mb-16">
+    <section className="flex-col flex items-center">
       <img
         src="/images/Group 1.png"
         className="rounded-full mx-auto max-w-md shadow-md"
@@ -11,7 +11,7 @@ const Intro = () => {
         width="max-w"
         alt="Kevin"
       ></img>
-      <h2 className="text-center text-xl text-gray-500 mt-5">
+      <h2 className="text-center text-xl text-gray-500 mt-5 max-w-xl">
         Hi, my name is Kevin. I spend my time making the world a better place
         with thoughtful products and design.
       </h2>

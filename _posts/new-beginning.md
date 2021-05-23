@@ -4,13 +4,10 @@ excerpt: 'Today marks the beginning of a new journey for me.
 
 I spent the last 10 years working for an amazing tech company called Galvanize. I got to work on products that transformed an industry and impacted the world in a positive way.'
 
-coverImage: '/assets/blog/dynamic-routing/cover.jpg'
+coverImage: '/assets/blog/new-beginning/cover.jpg'
 date: '2021-06-01T05:35:07.322Z'
-author:
-  name: Kevin Legere
-  picture: '/assets/blog/authors/kevin.jpeg'
 ogImage:
-  url: '/assets/blog/dynamic-routing/cover.jpg'
+  url: '/assets/blog/new-beginning/cover.jpg'
 ---
 
 Today marks the beginning of a new journey for me. 

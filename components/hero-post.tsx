@@ -29,7 +29,7 @@ const HeroPost = ({
               <a className="hover:underline">{title}</a>
             </Link>
           </h3>
-          <div className="mb-4 md:mb-0 text-lg">
+          <div className="text-gray-800 font-thin mb-4 md:mb-0 text-lg">
             <DateFormatter dateString={date} />
           </div>
         </div>

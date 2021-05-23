@@ -1,6 +1,4 @@
-import Alert from './alert'
 import Footer from './footer'
-import Meta from './meta'
 import Header from './header'
 
 type Props = {
@@ -12,7 +10,7 @@ const Layout = ({ preview, children }: Props) => {
   return (
     <>
      <Header />
-      <div className="min-h-screen">
+      <div className="py-8">
         <main>{children}</main>
       </div>
       <Footer />
