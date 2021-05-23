@@ -4,20 +4,17 @@ import Image from 'next/image'
 const Intro = () => {
   return (
     <section className="flex-col flex items-center mt-16 mb-16">
-      <Image
-        priority
-        src="/images/profile.jpg"
-        className="rounded-full"
-        height={144}
-        width={144}
+      <img
+        src="/images/Group 1.png"
+        className="rounded-full mx-auto max-w-md shadow-md"
+        height="max-h"
+        width="max-w"
         alt="Kevin"
-      />
-      <h1 className="text-6xl font-bold tracking-tighter leading-tight pt-4">
-        Kevin Legere
-      </h1>
-      <h4 className="text-center text-lg text-gray-500 mt-5">
-        Improving people's lives with thoughtful products and design.
-      </h4>
+      ></img>
+      <h2 className="text-center text-xl text-gray-500 mt-5">
+        Hi, my name is Kevin. I spend my time making the world a better place
+        with thoughtful products and design.
+      </h2>
     </section>
   );
 }
