@@ -10,7 +10,7 @@ type Props = {
 const ProductPreview = ({ title, tagline, logo, excerpt }: Props) => {
   return (
     <section className="space-y-8">
-      <div className="container bg-white mx-auto shadow-md rounded-lg p-4">
+      <div className="container bg-white bg-opacity-20 mx-auto shadow-md rounded-lg p-4">
         <div className="flex items-center">
           <Image src={logo} height={75} width={75} className=""></Image>
           <div className="px-8">

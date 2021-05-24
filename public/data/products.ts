@@ -30,9 +30,16 @@ export const productData = [
   {
     title: "Plastic Orchid Factory",
     logo: "/favicon/pof-logo.jpeg",
-    tagline: "",
+    tagline: "Contemporary dance collective",
     excerpt:
       "Plastic orchid makes, supports and advocates for divergent art works that are pluralistic in practice and in form. I got the opportunity to do sound design on various projects for PoF and currently sit on their Board of Directors.",
+  },
+  {
+    title: "Warehouse Party",
+    logo: "/favicon/warehouseparty_logo.png",
+    tagline: "minimal | experimental | electronic | music",
+    excerpt:
+      "Warehouse Party is my current music project with Mike Arensen and Kelcy Clark. Check out our music here.",
   },
 ];
 

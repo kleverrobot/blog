@@ -32,6 +32,8 @@ export const getStaticProps = async () => {
     "date",
     "slug",
     "coverImage",
+    "imageProps",
+    "imageURL",
     "excerpt",
   ]);
 
