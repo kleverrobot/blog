@@ -5,8 +5,8 @@ const Footer = () => {
   return (
     <footer className="bg-babyblue bg-opacity-50 border-t border-babyblue">
       <Container>
-        <div className="py-8 flex flex-col items-center align-middle text-space-dark font-mono">
-          <h3 className="text-3xl align-middle text-center mb-4">
+        <div className="py-4 flex flex-col items-center align-middle text-space-dark font-mono">
+          <h3 className="text-2xl align-middle text-center mb-4">
             Contact or follow me
           </h3>
           <div className="flex-cols-2 flex space-x-8">
@@ -17,8 +17,8 @@ const Footer = () => {
             >
               <Image
                 src="/favicon/twitter_icon.png"
-                height={50}
-                width={50}
+                height={40}
+                width={40}
               ></Image>
             </a>
             <a
@@ -28,12 +28,34 @@ const Footer = () => {
             >
               <Image
                 src="/favicon/linkedin-icon.png"
-                height={50}
-                width={50}
+                height={40}
+                width={40}
               ></Image>
             </a>
           </div>
-          <h4 className="mt-4 p-2 text-space font-light rounded-xl text-center">This site was made by me using <a href="https://nextjs.org/" target="_blank">next.js</a>, tailwind and typescript</h4>
+          <h4 className="mt-4 p-2 text-space-light font-extralight rounded-xl text-center">
+            This site was made by me using{" "}
+            <a href="https://nextjs.org/" target="_blank" className="underline">
+              next.js
+            </a>
+            ,{" "}
+            <a
+              href="https://tailwindcss.com/"
+              target="_blank"
+              className="underline"
+            >
+              tailwind
+            </a>{" "}
+            and{" "}
+            <a
+              href="https://www.typescriptlang.org/"
+              target="_blank"
+              className="underline"
+            >
+              typescript
+            </a>
+            .
+          </h4>
         </div>
       </Container>
     </footer>
