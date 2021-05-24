@@ -7,7 +7,7 @@ const Work = () => {
     <>
       <Layout>
         <Head>
-          <title>My Work</title>
+          <title>My Work | Kevin Legere</title>
         </Head>
         <Container>
           <div className="">My Work.</div>

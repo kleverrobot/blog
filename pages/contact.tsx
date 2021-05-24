@@ -7,7 +7,7 @@ const Contact = () => {
     <>
       <Layout>
         <Head>
-          <title>Contact</title>
+          <title>Contact | Kevin Legere</title>
         </Head>
         <Container>
           <div className="">Contact.</div>

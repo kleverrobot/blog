@@ -10,8 +10,8 @@ const Intro = () => {
         width={500}
         alt="Kevin Profile Picture"
       ></Image>
-      <h2 className="font-mono text-center text-2xl text-space-light mt-5 max-w-2xl">
-        I'm an entreprenuer, product leader and musician with a knack for solving complex problems. 
+      <h2 className="text-center text-2xl text-space mt-5 max-w-2xl">
+        I'm an entreprenuer, product leader and musician with a passion for solving complex problems. 
       </h2>
     </section>
   );
