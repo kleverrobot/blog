@@ -1,6 +1,8 @@
 import Container from "../components/container";
 import Layout from "../components/layout";
 import Head from "next/head";
+import Image from "next/image"
+import Products from "../components/all-products";
 
 const Work = () => {
   return (
@@ -10,7 +12,7 @@ const Work = () => {
           <title>My Work | Kevin Legere</title>
         </Head>
         <Container>
-          <div className="">My Work.</div>
+          <Products />
         </Container>
       </Layout>
     </>
@@ -18,3 +20,5 @@ const Work = () => {
 };
 
 export default Work;
+
+
