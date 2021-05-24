@@ -3,10 +3,10 @@ import Image from 'next/image'
 
 const Intro = () => {
   return (
-    <section className="flex-col flex items-center">
+    <section className="flex-col flex items-center mx-auto">
       <img
-        src="/images/Group 1.png"
-        className="rounded-full mx-auto max-w-md shadow-md"
+        src="/images/profile.jpg"
+        className="rounded-full max-w-md shadow-md"
         height="max-h"
         width="max-w"
         alt="Kevin"

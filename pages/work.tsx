@@ -1,22 +1,20 @@
 import Container from "../components/container";
-import Intro from "../components/intro";
 import Layout from "../components/layout";
 import Head from "next/head";
 
-const Index = () => {
+const Work = () => {
   return (
     <>
       <Layout>
         <Head>
-          <title>Kevin Legere</title>
+          <title>My Work</title>
         </Head>
         <Container>
-          <Intro />
+          <div className="">My Work.</div>
         </Container>
       </Layout>
     </>
   );
 };
 
-export default Index;
-
+export default Work;
