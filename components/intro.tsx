@@ -1,19 +1,17 @@
-import { CMS_NAME } from '../lib/constants'
 import Image from 'next/image'
 
 const Intro = () => {
   return (
     <section className="flex-col flex items-center mx-auto">
-      <img
-        src="/images/profile.jpg"
+      <Image
+        src="/images/profile_2.png"
         className="rounded-full max-w-md shadow-md"
-        height="max-h"
-        width="max-w"
-        alt="Kevin"
-      ></img>
-      <h2 className="text-center text-xl text-gray-500 mt-5 max-w-xl">
-        Hi, my name is Kevin. I spend my time making the world a better place
-        with thoughtful products and design.
+        height={500}
+        width={500}
+        alt="Kevin Profile Picture"
+      ></Image>
+      <h2 className="font-mono text-center text-2xl text-space-light mt-5 max-w-2xl">
+        I'm an entreprenuer, product leader and musician with a knack for solving complex problems. 
       </h2>
     </section>
   );

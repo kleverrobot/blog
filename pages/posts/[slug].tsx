@@ -2,7 +2,6 @@ import { useRouter } from 'next/router'
 import ErrorPage from 'next/error'
 import Container from '../../components/container'
 import PostBody from '../../components/post-body'
-import Header from '../../components/header'
 import PostHeader from '../../components/post-header'
 import Layout from '../../components/layout'
 import { getPostBySlug, getAllPosts } from '../../lib/api'
@@ -17,7 +16,7 @@ type Props = {
   preview?: boolean
 }
 
-const Post = ({ post, morePosts, preview }: Props) => {
+const Post = ({ post, preview }: Props) => {
   const router = useRouter()
   if (!router.isFallback && !post?.slug) {
     return <ErrorPage statusCode={404} />
@@ -29,7 +28,7 @@ const Post = ({ post, morePosts, preview }: Props) => {
           <PostTitle>Loading…</PostTitle>
         ) : (
           <>
-            <article className="mb-32">
+            <article className="">
               <Head>
                 <title>
                   {post.title} | Kevin Legere

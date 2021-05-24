@@ -6,11 +6,11 @@ type Props = {
   children: React.ReactNode
 }
 
-const Layout = ({ preview, children }: Props) => {
+const Layout = ({children }: Props) => {
   return (
     <>
      <Header />
-      <div className="py-8">
+      <div className="py-8 bg-lavender bg-opacity-50">
         <main>{children}</main>
       </div>
       <Footer />
