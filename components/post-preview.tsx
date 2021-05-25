@@ -24,13 +24,13 @@ const PostPreview = ({
       </div>
       <h3 className="text-3xl mb-3 leading-snug text-space-dark">
         <Link as={`/posts/${slug}`} href="/posts/[slug]">
-          <a className="hover:underline hover:text-space">{title}</a>
+          <a className="hover:underline">{title}</a>
         </Link>
       </h3>
       <div className="text-lg text-gray-800 font-thin mb-4">
         <DateFormatter dateString={date} />
       </div>
-      <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
+      <p className="leading-relaxed mb-4">{excerpt}</p>
     </div>
   )
 }

@@ -1,23 +1,35 @@
 .markdown {
-  @apply text-lg leading-relaxed;
+  @apply mt-8 space-y-8 text-lg leading-relaxed text-space;
 }
 
 .markdown a {
-  @apply text-space-light font-light underline;
+  @apply underline;
 }
 
-.markdown blockquote {
-  @apply mx-8 border-l-4 px-4 border-accent-1;
+.markdown p {
+  @apply mt-4 leading-relaxed text-lg;
 }
 
-.markdown p,
-.markdown ul,
-.markdown ol,
+.markdown ul {
+  @apply mx-8 list-disc text-lg;
+}
+
+.markdown ol {
+  @apply list-decimal text-lg;
+}
+
+.markdown h1 {
+  @apply mt-8 font-bold mb-4 text-6xl;
+}
 
 .markdown h2 {
-  @apply text-3xl mt-12 mb-4 leading-snug;
+  @apply text-4xl font-bold mt-8 mb-4 leading-snug;
 }
 
 .markdown h3 {
-  @apply text-2xl mt-8 mb-4 leading-snug;
+  @apply text-2xl font-bold mt-8 mb-4 leading-snug;
+}
+
+.markdown blockquote {
+  @apply mx-8 border-l-4 px-4 border-accent-1 text-space;
 }

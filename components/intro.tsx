@@ -8,11 +8,11 @@ const Intro = () => {
         className="rounded-full max-w-md shadow-md"
         height={500}
         width={500}
-        alt="Kevin Profile Picture"
+        alt="Kevin Profile"
       ></Image>
-      <h2 className="text-center text-2xl text-space mt-5 max-w-2xl">
+      <h3 className="text-2xl text-center text-space mt-5 max-w-2xl">
         I'm an entreprenuer, product leader and musician with a passion for solving complex problems. 
-      </h2>
+      </h3>
     </section>
   );
 }

@@ -1,22 +1,21 @@
 ---
 title: 'Why I left the best job I ever had'
 excerpt: 'I spent the last 10 years working for an amazing tech company called Galvanize. I got to work on products that transformed an industry and impacted the world in a positive way.'
-
 coverImage: '/assets/blog/new-beginning/cover.jpg'
-date: '2021-06-01T05:35:07.322Z'
+date: '2021-06-01'
 ---
 
-Today marks the beginning of a new journey for me.
+### Today marks the beginning of a new journey for me.
 
 I spent the last 10 years working for an [amazing tech company called Galvanize](https://build.wegalvanize.com/). I got to work on products that transformed an industry and impacted the world in a positive way. I made lifelong friends, learned more than I can write in a single post and most importantly, **I loved my work**. It was the best job I ever had. One where I got to play a role in growing a small start up into a [Vancouver tech unicorn](https://biv.com/article/2021/03/sightings-billion-dollar-homegrown-unicorns-are-rare-bc). But that’s a story for another day.
 
-Today I want to tell you why I left the best job I ever had.
+I want to tell you why I left the best job I ever had.
 
 There have been several points in my career where I was at a transition point. The work was still interesting, but no longer exciting. The last 10 years at Galvanize I was always able to find that next step or new challenge internally. But this time was different. I longed for something totally different. I wanted to test myself outside the comfortable guardrails of Galvanize. So I started to look around and ask myself:
 
-- “Where are my interests pulling me?”
-- “What do I want to learn?”
-- “How do I need to grow?"
+“Where are my interests pulling me?”
+“What do I want to learn?”
+“How do I need to grow?"
 
 As I reflected back on my career, I realized that all my best growth as a person and a leader has come when I was in over my head. When I had no idea what I was doing. In these moments I was forced into rapid growth out of necessity. Our fearless leader and (former) CEO Laurie Schultz likes to say:
 
