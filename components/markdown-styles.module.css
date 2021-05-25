@@ -1,13 +1,13 @@
 .markdown {
-  @apply text-lg leading-relaxed
+  @apply text-lg leading-relaxed;
 }
 
 .markdown a {
-  @apply text-space-light font-light underline
+  @apply text-space-light font-light underline;
 }
 
 .markdown blockquote {
-  @apply mx-8 border-l-4 px-4 border-accent-1
+  @apply mx-8 border-l-4 px-4 border-accent-1;
 }
 
 .markdown p,
@@ -15,9 +15,9 @@
 .markdown ol,
 
 .markdown h2 {
-  @apply text-3xl mt-12 mb-4 leading-snug
+  @apply text-3xl mt-12 mb-4 leading-snug;
 }
 
 .markdown h3 {
-  @apply text-2xl mt-8 mb-4 leading-snug
+  @apply text-2xl mt-8 mb-4 leading-snug;
 }
