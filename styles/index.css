@@ -1,6 +1,20 @@
 @tailwind base;
 
 /* Write your own custom base styles here */
+@layer base {
+  h1 {
+    @apply font-mono font-bold text-4xl;
+  }
+  h2 {
+    @apply font-mono text-2xl;
+  }
+  h3 {
+      @apply text-xl;
+  }
+  p {
+      @apply text-base;
+  }
+}
 
 /* Start purging... */
 @tailwind components;
