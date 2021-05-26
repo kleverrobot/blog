@@ -1,5 +1,5 @@
 ---
-title: 'Learning to code will make you a better Product Manager'
+title: 'How learning to code will make you a better Product Manager'
 excerpt: 'Let’s get one thing out of way. I’m not a software engineer. No one would ever pay me money to write code. Yet, I invested time in learning how to code. I’ve always known a bit of HTML and CSS, but lately I’ve been dabbling in javascript, python, swift and others.'
 coverImage: '/assets/blog/learn-to-code/cover.jpg'
 date: '2021-05-31'
