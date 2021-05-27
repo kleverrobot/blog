@@ -4,6 +4,7 @@ excerpt: "Why is a called roadmap? Roadmaps give very finite possibilities, they
 coverImage: "/assets/blog/roadmap/cover.jpg"
 date: "2021-04-01"
 ---
+### ⚠️ This post is a work in progress ⚠️
 
 Why is a called roadmap? Roadmaps give very finite possibilities, they limit creativity and innovation. That makes sense when I’m driving somewhere and I want to get there quickly. That doesn’t make sense when you are building software in a highly competitive market. 
 
