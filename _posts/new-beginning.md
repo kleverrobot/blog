@@ -9,13 +9,13 @@ I spent the last 10 years working for an amazing tech company called [Galvanize]
 
 ### Today I want to tell you why I left the best job I ever had.
 
-There have been several points in my career where I was at a crossroads. The work was still interesting, but no longer exciting. For ten years I was able to find that next step or new challenge internally at Galvanize. But this time was different. I yearned for something different. I wanted to test myself outside the comfortable guardrails of Galvanize.
+There have been several points in my career where I was at a crossroads. The work was still interesting, but no longer exciting. For ten years I was able to find that next step or new challenge internally at Galvanize. But this was different. I wanted to test myself outside the comfortable guardrails of Galvanize.
 
 So I started to look around and ask myself:
 
-“Where are my interests pulling me?”
-“What do I want to learn?”
-“How do I need to grow?”
+* “Where are my interests pulling me?”
+* “What do I want to learn?”
+* “How do I need to grow?”
 
 ---
 
@@ -29,7 +29,7 @@ There is no better way to put it, than using another quote from Laurie:
 
 > “Leaders create a future that otherwise would not have existed.”
 
-No matter the outcome, this is where real, rapid growth comes from. If you fail, you’ve surely learned some new things along the way and have much deeper understanding of the problem you are trying to solve. If you succeed, then you accomplished something amazing! Isn’t this exactly why we immerse ourselves in our work? These are the moments in time that you will look back on and say to yourself, “that’s when we took a massive step forward”.
+No matter the outcome, this is where you can experience real growth. If you fail, you will have learned some new things and have gained a much deeper understanding of the problem you are solving. If you succeed, then you accomplished something amazing! These are the moments in time that you will look back on and say to yourself, “that’s when we took a massive step forward”.
 
 I got to experience this many times at Galvanize. The job and the people taught me how to set the bar high, be comfortable with ambiguity and find a way to create a future that otherwise would not have existed.
 
@@ -41,6 +41,6 @@ Clarity emerged when I found an underserved market that was directly related to 
 
 Today is my first official day on the job as founder and CEO of a BC based tech company. We have 2 employees (including me), no customers, no revenue and no product. What could possibly go wrong?
 
-We are in WAY over our heads and I’m already loving every moment of it. I know that we are in the honeymoon phase. I know that the wave of struggle is on the horizon. Luckily for me, I have a wealth of experiences to draw from. I learned from some of the best leaders in the industry and feel confident in my ability to navigate this journey.
+We are in WAY over our heads and I’m already loving every moment. I know that we are in the honeymoon phase. I know that the wave of struggle is on the horizon. Luckily for me, I have a wealth of experiences to draw from. I learned from some of the best leaders in the industry and feel confident in my ability to navigate this journey.
 
 I can’t wait to share our product with the world. I plan to keep writing about our journey, our products and my learnings over the years of shipping software. Until then, see you later and thanks for reading 👋
