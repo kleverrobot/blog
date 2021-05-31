@@ -1,6 +1,6 @@
 import Footer from './footer'
-import Header from './header'
 import Head from "next/head"
+import Header from './header'
 import { motion } from "framer-motion"
 
 type Props = {
@@ -12,7 +12,7 @@ const Layout = ({children }: Props) => {
   return (
     <>
       <Header />
-      <div className="py-8 bg-lavender bg-opacity-50">
+      <div className="py-8 bg-opacity-20 bg-lavender">
         <Head>
           <link rel="shortcut icon" href="/favicon/favicon.ico" />
         </Head>

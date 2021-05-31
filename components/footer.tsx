@@ -3,13 +3,13 @@ import Image from "next/image";
 
 const Footer = () => {
   return (
-    <footer className="bg-babyblue bg-opacity-50 border-t border-babyblue">
+    <footer className="bg-opacity-50 border-t bg-babyblue border-babyblue">
       <Container>
-        <div className="py-4 flex flex-col items-center text-space-dark">
-          <h2 className="text-center mb-4">
+        <div className="flex flex-col items-center py-4 text-space-dark">
+          <h3 className="mb-4 text-center">
             Contact or follow me
-          </h2>
-          <div className="flex-cols-2 flex space-x-8">
+          </h3>
+          <div className="flex space-x-8 flex-cols-2">
             <a
               href="https://twitter.com/KevinGLegere"
               target="_blank"
@@ -17,8 +17,8 @@ const Footer = () => {
             >
               <Image
                 src="/favicon/twitter_icon.png"
-                height={40}
-                width={40}
+                height={35}
+                width={35}
               ></Image>
             </a>
             <a
@@ -28,12 +28,12 @@ const Footer = () => {
             >
               <Image
                 src="/favicon/linkedin-icon.png"
-                height={40}
-                width={40}
+                height={35}
+                width={35}
               ></Image>
             </a>
           </div>
-          <p className="mt-4 p-2 text-space-light font-extralight rounded-xl text-center">
+          <p className="p-2 mt-2 text-center text-space-light font-extralight rounded-xl">
             This site was made by me using{" "}
             <a href="https://nextjs.org/" target="_blank" className="underline">
               next.js
@@ -54,6 +54,11 @@ const Footer = () => {
             >
               typescript
             </a>
+            . I started with this{" "}
+            <a href="https://github.com/vercel/next.js/tree/canary/examples/blog-starter-typescript"
+            target="_blank"
+            className="underline"
+            >example</a>
             .
           </p>
         </div>

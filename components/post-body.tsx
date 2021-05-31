@@ -7,8 +7,8 @@ type Props = {
 const PostBody = ({ content }: Props) => {
   return (
     <div className="mx-auto text-space">
-      <div
-        className={markdownStyles['markdown']}
+      <article
+        className="prose lg:prose-xl"
         dangerouslySetInnerHTML={{ __html: content }}
       />
     </div>

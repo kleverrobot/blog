@@ -1,5 +1,5 @@
-import DateFormatter from "./date-formatter";
 import CoverImage from "./cover-image";
+import DateFormatter from "./date-formatter";
 import PostTitle from "./post-title";
 
 type Props = {
@@ -11,12 +11,12 @@ type Props = {
 const PostHeader = ({ title, coverImage, date }: Props) => {
   return (
     <>
-      <PostTitle>{title}</PostTitle>
-      <div className="mb-8 flex items-center">
+      <div className="flex items-center mb-8">
         <CoverImage title={title} src={coverImage} />
       </div>
       <div className="mx-auto">
-        <div className="text-2xl text-space-light font-light">
+        <PostTitle>{title}</PostTitle>
+        <div className="text-xl font-light text-space-light">
           <DateFormatter dateString={date} />
         </div>
       </div>
