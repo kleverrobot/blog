@@ -6,9 +6,7 @@ const Footer = () => {
     <footer className="bg-opacity-50 border-t bg-babyblue border-babyblue">
       <Container>
         <div className="flex flex-col items-center py-4 text-space-dark">
-          <h3 className="mb-4 text-center">
-            Contact or follow me
-          </h3>
+          <h3 className="mb-4 text-center">Contact or follow me</h3>
           <div className="flex space-x-8 flex-cols-2">
             <a
               href="https://twitter.com/KevinGLegere"
@@ -54,11 +52,6 @@ const Footer = () => {
             >
               typescript
             </a>
-            . I started with this{" "}
-            <a href="https://github.com/vercel/next.js/tree/canary/examples/blog-starter-typescript"
-            target="_blank"
-            className="underline"
-            >example</a>
             .
           </p>
         </div>
