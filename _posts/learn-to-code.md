@@ -9,7 +9,7 @@ Photo by [Florian Olivo](https://unsplash.com/@florianolv?utm_source=unsplash&ut
 
 ---
 
-Let’s get one thing out of way. I am not a software engineer. No one will ever pay me money to write code. Yet, I invested time in learning some coding languages. I’ve always known a bit of HTML and CSS, but lately I’ve been dabbling in javascript, python and others. I didn’t do this because I want to become a software engineer. I did it to level up my technical game. Knowing how applications are written and work will make you a better product manager. Here are some reasons why:
+Let’s get one thing out of way. I am not a software engineer. No one will ever pay me money to write code. Yet, I invested time in learning some coding languages. I’ve always known a bit of HTML and CSS, but lately I’ve been dabbling in javascript, python and others. I didn’t do this because I want to become a software engineer. I did it to level up my technical game. Knowing how applications are written and work will make you a better Product Manager. Here are some reasons why:
 
 ---
 
