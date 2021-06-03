@@ -4,15 +4,12 @@ excerpt: "I’ve always known a bit of HTML and CSS, but lately I’ve been dabb
 coverImage: "/assets/blog/learn-to-code/cover.jpg"
 date: "2021-05-30"
 ---
-
 Photo by [Florian Olivo](https://unsplash.com/@florianolv?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/code?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ---
-
 Let’s get one thing out of way. I am not a software engineer. No one will ever pay me money to write code. Yet, I invested time in learning some coding languages. I’ve always known a bit of HTML and CSS, but lately I’ve been dabbling in javascript, python and others. I didn’t do this because I want to become a software engineer. I did it to level up my technical game. Knowing how applications are written and work will make you a better Product Manager. Here are some reasons why:
 
 ---
-
 ### Better communication with your development team
 
 If you know how to code you will be able to speak the same language as your development team. Imagine working on a project with someone who speaks a different language than you. That’s going to be a challenge (though not impossible). Well that is exactly what happens when developers start talking about the technical design and you have no idea what they’re saying. Knowing how to speak their language and read a bit of code will help you better communicate with your teams and build better products.
@@ -34,7 +31,6 @@ Have you ever been in a conversation with a customer and you didn’t know the b
 When you understand the data model and technical design of your product you will not just know what happens when you click on something, but you’ll also know **_why_** it works that way. This deep understanding can help you improve the product and overall customer experience. This is why engineers always say that if you get the data model right, then everything else is easy.
 
 ---
-
 ### So how do you get started?
 
 If you are totally new to programming, I’d suggest starting with HTML. You don’t need to be proficient. Just familiarize yourself with the syntax and learn some basic stuff. Trust me, it’ll be worth it (even if it’s a bit scary in the beginning).
@@ -54,5 +50,4 @@ After refreshing my HTML and CSS, I did the tailwindcss tutorial [here](https://
 So HTML and CSS are great if you want to build static websites, but they will only take you so far. If you want to build something more interactive you are likely going to need to know some javascript. So I went back to freecodecamp and did the basic javascript course. That was all I needed to dive into the [next.js tutorial](https://nextjs.org/learn/basics/create-nextjs-app?utm_source=next-site&utm_medium=homepage-cta&utm_campaign=next-website) and build my very own web app with dynamic routing, react components and a library of posts.
 
 ---
-
 Good luck and happy coding!
