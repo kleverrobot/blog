@@ -37,13 +37,13 @@ When I was in tech support, I told everyone that I wanted to be a consultant. I 
 
 ---
 ### Go deep on the domain
-We were building governance software. It’s a complicated domain. I didn’t want to be just another Product Manager. I wanted to be THE Product Manager. So I decided to immerse myself in our domain. Learn it inside and out. Be comfortable talking to analysts, customers or internal employees. Be someone who could teach others. So I read a lot and validated those readings with customers. I read white papers, articles and books about risk management. I even listened to podcasts. Heck, I even did a [podcast](https://www.youtube.com/channel/UCWVSKGx9VG-0qWLbtiuy23A) with Dan Zitting. 
+We were building governance software. It’s a complicated domain. I didn’t want to be just another Product Manager. I wanted to be THE Product Manager. So I decided to immerse myself in our domain. Learn it inside and out. Be comfortable talking to analysts, customers or internal employees about any related topic. When I didn't know the answer, I'd do more research and prepare myself for the next time it came up. I read white papers, articles and books about risk management. I even listened to podcasts. Heck, I even did a [podcast](https://www.youtube.com/channel/UCWVSKGx9VG-0qWLbtiuy23A) with Dan Zitting. 
 
 Once again my hard work paid off. I knew the product well because I had been at the company for awhile and I quickly became someone people saw a an expert in the domain. It certainly made me better at my job, but it was about prepping for my next job (yes, we’ve come full circle). When my boss, the Director of Product moved into another role, it left a big hole on the team. Do they bring in someone new who doesn’t know our domain or customers? Or do they go with someone they know? Someone who has dedicated their time to deeply understanding the product and domain.
 
 Remember when I said that people often go with the known over unknown when the decision is close? I’m not sure if that is exactly what went into the decision, but I do know that my dedication to learning the domain was a big factor. 
 
 ---
-That was my dream job and I 💜’d every second of it. It took hard work, good timing and a little bit of luck. Some people say that you can make your own luck. Maybe some of these techniques helped me create some of my own luck. Hard to say. The best thing you can do is be ready for opportunity. Then when it comes up, throw yourself at it.
+That was my dream job and I 💜’d every second of it. It took hard work, good timing and a little bit of luck. Some people say that you can make your own luck. Maybe some of these techniques helped me create some of my own luck. Hard to say. The best thing you can do is be ready for the opportunity. Then when it comes up, throw yourself at it.
 
 Let me know what you did to accelerate your career growth. I’d love to hear your story. Thanks for reading 🍻
