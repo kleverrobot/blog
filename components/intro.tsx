@@ -11,7 +11,7 @@ const Intro = () => {
         alt="Kevin Profile"
       ></Image>
       <h3 className="max-w-2xl mt-5 text-2xl text-center text-space">
-        I'm an entreprenuer, product leader and musician with a passion for solving complex problems. 
+        I'm an entrepreneur, product leader and artist with a passion for solving complex problems. 
       </h3>
     </section>
   );

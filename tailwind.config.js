@@ -1,6 +1,9 @@
 module.exports = {
   purge: ["./components/**/*.tsx", "./pages/**/*.tsx"],
   theme: {
+    fontFamily: {
+      'sans': ["Rubik", "sans-serif"],
+    },
     extend: {
       colors: {
         "accent-1": "#D8D5DB",
