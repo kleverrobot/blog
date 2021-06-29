@@ -1,5 +1,4 @@
 import Image from "next/image";
-import { isPropertySignature } from "typescript";
 
 interface Props {
   title: string;
@@ -13,9 +12,9 @@ export const AboutCard = (props: Props) => {
       <div className="relative w-full max-w-4xl mx-auto ">
         <div className="absolute inset-0 -mr-3.5 bg-gradient-to-r from-lavender to-babyblue shadow-lg transform skew-y-0 rotate-3 rounded-3xl"></div>
         <div className="relative bg-white shadow-lg rounded-3xl">
-          <div className="px-12 py-4">
+          <div className="px-12 py-8">
             <div className="mt-8 text-center">
-              <div className="mb-4 text-4xl font-semibold leading-none text-space-dark">
+              <div className="mb-8 text-4xl font-medium leading-none text-space-dark">
                 {props.title}
               </div>
               <Image

@@ -13,28 +13,27 @@ const Index = () => {
         </Head>
         <Container>
           <Intro />
-          <div className="mt-8 mb-20 border-t border-lavender">
-            <h2 className="mt-8 text-center text-space">I'm also...</h2>
-            <AboutCard
-              title="A father and a husband"
-              text="I spend my weekends exploring beautiful places in British Columbia with the 2 best people in the world."
-              imgSrc="/images/father.JPG"
-            />
-          </div>
-          <div className="mt-8 border-t border-lavender"></div>
+          <div className="mt-8 mb-20 border-t border-lavender"></div>
+          <h2 className="mt-8 text-center text-space">I'm also...</h2>
+          <AboutCard
+            title="A father and a husband"
+            text="I spend my weekends exploring beautiful places in British Columbia with the 2 best people in the world."
+            imgSrc="/images/father.JPG"
+          />
+
           <AboutCard
             title="A super nerd"
-            text="I collect trading cards, pay board games, build things with lego and obsess over everything Star Wars."
+            text="I collect trading cards, play board games, build things with lego and obsess over everything Star Wars."
             imgSrc="/images/nerd.jpeg"
           />
           <AboutCard
-            title="A sound designer"
-            text="I love the intersection of technology and music."
+            title="A music lover and sound designer"
+            text="I spend evenenings and weekends making weird music with drum machines and syntesizers. I will also never turn down live music."
             imgSrc="/images/music.jpeg"
           />
           <AboutCard
             title="An adventurer"
-            text="I am always explorying new places."
+            text="I am always explorying new places trying to find the perfect view from the top of a mountain."
             imgSrc="/images/adventure.JPG"
           />
         </Container>
