@@ -28,7 +28,7 @@ const Index = () => {
           />
           <AboutCard
             title="A music lover and sound designer"
-            text="I spend evenenings and weekends making weird music with drum machines and syntesizers. I will also never turn down live music."
+            text="I spend my evenings and weekends making weird music with drum machines and synthesizers. I will also never turn down live outdoor music."
             imgSrc="/images/music.jpeg"
           />
           <AboutCard
