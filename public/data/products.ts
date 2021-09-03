@@ -2,16 +2,16 @@ export const productData = [
   {
     title: "Skwirl",
     logo: "/favicon/skwirl-logo.png",
-    tagline: "Details coming soon...",
+    tagline: "The social marketplace for modern collectors.",
     excerpt:
-      "Skwirl is a new project fueled by a shared passion for collecting. We are in the early stages of building and designing a prototype. Skwirl will be a web application deployed on AWS using RDS, Ruby on Jets, Next.js, Tailwind and Typescript.",
+      "Skwirl is a project built from a desire to connect my skillset of building software with my hobby of collecting. Skwirl will be a web application deployed on AWS using RDS, Ruby on Jets, Next.js, Tailwind and Typescript.",
   },
   {
     title: "Pickit",
     logo: "/favicon/pickit-logo.png",
     tagline: "The decision making app",
     excerpt:
-      "Pickit is a side project that I am working on. The 💡 came from my wife who wanted an app that would help her make decisions. What are we going to have for dinner? What should we do today? What game should we play? All of these decisions can be made more easily with a little help from Pickit. Releasing Summer 2021.",
+      "Pickit is a side project that I am working on. The 💡 came from my wife who wanted an app that would help her make decisions. What are we going to have for dinner? What should we do today? What game should we play? All of these decisions can be made more easily with a little help from Pickit. Releasing 2021.",
   },
   {
     title: "HighBond",
