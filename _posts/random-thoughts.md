@@ -1,5 +1,5 @@
 ---
-title: "Random thoughts 1 week before launch"
+title: "Random thoughts the week before launch"
 excerpt: ""
 coverImage: "/assets/blog/random-thoughts/cover.jpg"
 date: "2021-09-02"
@@ -9,7 +9,7 @@ Photo by [Mick Haupt](https://unsplash.com/@rocinante_11?utm_source=unsplash&utm
   
 ---
 
-There are so many topics I want to write about, but I have to be deliberate with my time right now. So instead of a well written article, you get some random thoughts written at 2am one week before 🚀. Hope you enjoy 😃
+There are so many topics I want to write about, but I have to be deliberate with my time right now. So instead of a well written article, you get some random thoughts one week before 🚀. Hope you enjoy 😃
 
 ---
 
